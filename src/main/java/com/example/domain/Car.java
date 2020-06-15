@@ -18,6 +18,9 @@ public class Car {
 		this.bodyColor = bodyColor;
 	}
 	
+	public void run() {
+		
+	}
 	
 
 }
