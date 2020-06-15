@@ -19,6 +19,13 @@ public class Car {
 	public void setName(String name) {
 		this.name = name;
 	}
+<<<<<<< HEAD
+=======
+	public void run() {
+		
+	}
+	
+>>>>>>> 1a79216342abb6dc64c9e9715f5bcb9ec8d27101
 	public void run() {
 		
 	}
