@@ -3,7 +3,7 @@ package com.example.domain;
 public class Car {
 	
 	private int speed;
-	private String bodyColor;
+	private String carName;
 	
 	public int getSpeed() {
 		return speed;
@@ -11,18 +11,11 @@ public class Car {
 	public void setSpeed(int speed) {
 		this.speed = speed;
 	}
-	public String getBodyColor() {
-		return bodyColor;
+	public String getCarname() {
+		return carName;
 	}
-	public void setBodyColor(String bodyColor) {
-		this.bodyColor = bodyColor;
-	}
-	public void run() {
-		
-	}
-	
-	public void run() {
-		
+	public void setCarname(String carName) {
+		this.carName = carName;
 	}
 	
 
