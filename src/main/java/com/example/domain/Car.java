@@ -17,6 +17,9 @@ public class Car {
 	public void setBodyColor(String bodyColor) {
 		this.bodyColor = bodyColor;
 	}
+	public void run() {
+		
+	}
 	
 	public void run() {
 		
